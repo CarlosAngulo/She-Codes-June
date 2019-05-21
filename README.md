@@ -1,8 +1,9 @@
 
+#She Codes Angular Challenge Roadmap
 
-LEVEL 1
+##LEVEL 1
 
-CHALLENGE 1
+###CHALLENGE 1
 - Basic Html + CSS
     - Create a new HTML document
     - Add a page title
@@ -14,7 +15,7 @@ CHALLENGE 1
     - Create containers
     - Box model
 
-CHALLENGE 2
+###CHALLENGE 2
 - Add Javascript
     - Link a Javascript file
     - Add a button that triggers an alert or console log
